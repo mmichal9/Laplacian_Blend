@@ -1,7 +1,7 @@
 Laplacian Blend
 ==============
 
-This is a simple Matlab script that blends together two images using Laplacian Pyramid Blending.
+This is a simple Matlab script that blends two images using Laplacian Pyramid Blending.
 
 # Sources of inspiration
 
